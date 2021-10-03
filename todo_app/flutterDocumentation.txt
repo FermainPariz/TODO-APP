@@ -1,0 +1,12 @@
+create .bashrc or .zshrc to flutter 
+    -> in my case 'export PATH="$PATH:/Users/tomschuppler/Desktop/flutter/bin"'
+
+clone Repository form gitHub
+
+'flutter create todo_app' is creating a new flutter file which has everything we need for flutter 
+
+git status -> there you can see everything 
+git diff -> to see the changes before adding the documents
+git add . -> added everything 
+git commit -m "Message" -> Committed everything on Branch 
+git push  -> now everything should be on git remote
